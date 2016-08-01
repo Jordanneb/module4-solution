@@ -11,7 +11,7 @@
 // on the console should look like this:
 /*
 Hello Yaakov
-Good Bye John
+Good Bye Jordanne
 Good Bye Jen
 Good Bye Jason
 Hello Paul
